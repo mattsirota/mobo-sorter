@@ -159,7 +159,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "The Weekends",
+    name: "The Weekend",
     img: "https://upload.wikimedia.org/wikipedia/en/9/9c/Sports_Modern_Baseball_album.jpg",
     opts: {
     }
